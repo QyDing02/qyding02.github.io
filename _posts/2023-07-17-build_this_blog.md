@@ -4,7 +4,7 @@ date: 2023-07-17 19:30:00 +0800
 categories: [随笔]  #[A, B]
 tags: [] #[TAG]     # TAG names should always be lowercase
 author: [1]
-img_path: /assets/img/
+img_path: /assets/img/2023-07-17-build_this_blog/
 ---
 
 ### 前言
@@ -42,7 +42,7 @@ sudo apt-get install ruby-full build-essential zlib1g-dev
 
 ###### 为自己的用户账户配置gem的安装目录
 
-```
+```bash
 echo '# Install Ruby Gems to ~/software/gems' >> ~/.bashrc
 echo 'export GEM_HOME="$HOME/software/gems"' >> ~/.bashrc
 echo 'export PATH="$HOME/software/gems/bin:$PATH"' >> ~/.bashrc
@@ -51,7 +51,7 @@ source ~/.bashrc
 
 ###### 安装 Jekyll 和 Bundler
 
-```
+```bash
 gem install jekyll bundler
 ```
 
@@ -59,7 +59,7 @@ gem install jekyll bundler
 
 如果网络环境不好，可以换ruby的国内镜像源
 
-```
+```bash
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 ```
 
@@ -151,7 +151,7 @@ bundle exec jekyll s
 bundle exec jekyll serve
 ```
 
-就可以在[http://localhost:4000](http://localhost:4000/)访问网站查看效果
+就可以在http://localhost:4000访问网站查看效果
 
 ##### 6.部署
 
@@ -171,17 +171,26 @@ git push
 
 
 
+##### 图床
+
+
+
 
 
 ### 参考链接
 
 Jekyll 的安装手册
 
-https://jekyllrb.com/docs/installation/
+[https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
 
 
 
 chirpy的官方教程
 
-https://chirpy.cotes.page/posts/getting-started/
+[https://chirpy.cotes.page/posts/getting-started/](https://chirpy.cotes.page/posts/getting-started/)
 
+
+
+文章内各种功能的语法
+
+https://chirpy.cotes.page/posts/write-a-new-post/
