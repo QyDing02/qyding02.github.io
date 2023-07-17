@@ -4,6 +4,7 @@ date: 2023-07-17 19:30:00 +0800
 categories: [随笔]  #[A, B]
 tags: [] #[TAG]     # TAG names should always be lowercase
 author: [1]
+img_path: /assets/img/
 ---
 
 ### 前言
