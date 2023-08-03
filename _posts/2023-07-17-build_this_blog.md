@@ -147,7 +147,7 @@ bundle exec jekyll s
 
 或
 
-```
+```bash
 bundle exec jekyll serve
 ```
 
@@ -167,12 +167,19 @@ git push
 
 ### 创建新文章
 
+在`_posts/`目录下创建新文章的.md文件就可以。为了方便，我在`_drafts/`目录下创建了一个模板文件，复制到`_posts/`目录下，修改文件名和内容就可以了。
 
 
 
 
 ##### 图床
 
+图片放在`assets/img/`目录下。对于每篇文章，单独创建一个文件夹。图片的引用路径为`/assets/img/<文章名>/`。目前这一操作需要手动完成。
+
+
+##### 文件
+
+文件放在`assets/file/`目录下。
 
 
 
@@ -193,4 +200,4 @@ chirpy的官方教程
 
 文章内各种功能的语法
 
-https://chirpy.cotes.page/posts/write-a-new-post/
+[https://chirpy.cotes.page/posts/write-a-new-post/](https://chirpy.cotes.page/posts/write-a-new-post/)
