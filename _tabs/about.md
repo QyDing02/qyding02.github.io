@@ -28,6 +28,13 @@ Gesture Generation Based on Diffusion Models.
 
 I haven't published anything yet, but I am passionate about research and discovery. Although I'm new to research, I'm eager to learn, improve my skills, and make meaningful contributions.
 
+## Hobbies
+
+I like to travel and take pictures. Even though I don't have professional photographic equipment, I still enjoy the process of finding beauty in the world around me.
+
+At the same time, I'm a transportation fanatic and am very interested in all types of transportation (spacecrafts, airplanes, high speed trains, etc.). 
+
+
 ## Correspondence
 Email: dingqy7@mail2.sysu.edu.cn
 
