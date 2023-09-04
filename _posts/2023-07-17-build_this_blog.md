@@ -133,6 +133,8 @@ social:
   email: <email> # change to your email address
   links:
     - https://github.com/<username> # change to your github homepage
+
+avatar: assets/img/avatar.png # change to your avatar image
 ```
 
 
