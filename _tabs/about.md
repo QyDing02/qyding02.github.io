@@ -39,8 +39,8 @@ At the same time, I'm a transportation fanatic and am very interested in all typ
 Email: dingqy7@mail2.sysu.edu.cn
 
 
-## Resume
+<!-- ## Resume
 [Resume.pdf](../assets/file/resume/resume.pdf)
 
 [简历.pdf](../assets/file/resume/resume-zh_CN.pdf)
-
+ -->
