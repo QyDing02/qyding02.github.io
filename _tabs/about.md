@@ -12,13 +12,14 @@ order: 4
 ## Short Biography
 Currently a junior undergraduate at Sun Yat-sen University (SYSU), I am specializing in Computer Science and Technology (Artificial Intelligence and Big Data).
 
-In the spring of 2022, I was privileged to join the HCP lab, guided by Keze Wang. My research focuses on computer vision.
+In the spring of 2022, I was privileged to join the HCP lab, guided by Keze Wang. 
 
 
 ## Research Interests
-Since I'm new to research, I'm interested in many areas and I'm always excited to take on something new. Right now, I'm really focusing on learning about machine learning and computer vision. Most of my work now involves these main tasks:
+I'm interested in many areas and I'm always excited to take on something new. 
 
-Gesture Generation Based on Diffusion Models.
+Recently, my research focuses on Computer Vision and Human-Computer Interaction. Most of my work now involves gesture generation based on diffusion models. 
+
 
 ## News
 
@@ -26,7 +27,8 @@ Gesture Generation Based on Diffusion Models.
 
 ## Publications
 
-I haven't published anything yet, but I am passionate about research and discovery. Although I'm new to research, I'm eager to learn, improve my skills, and make meaningful contributions.
+[1] [ICASSP2024] Lingling Li, Weicong Li, **Qiyuan Ding**, Chengpei Tang, Keze Wang\*: *GestureGeneration*
+*via Diffusion Model with Attention Mechanism*
 
 ## Hobbies
 
