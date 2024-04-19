@@ -95,8 +95,8 @@ comments:
   giscus:
     repo: "QyDing02/qyding02.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOJgDQQQ"
-    category: "Comments"
-    category_id: "DIC_kwDOJgDQQc4Ceyhs"
+    category: "General"
+    category_id: "DIC_kwDOJgDQQc4Ceyht"
     mapping: "pathname" # optional, default to 'pathname'
     input_position: "top" # optional, default to 'bottom'
     lang: "zh-CN" # optional, default to the value of `site.lang`
