@@ -141,7 +141,7 @@ avatar: assets/img/avatar.png # change to your avatar image
 
 
 
-##### 5,在本地测试运行效果
+##### 5.在本地测试运行效果
 
 ```bash
 bundle exec jekyll s
