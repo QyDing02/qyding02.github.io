@@ -40,7 +40,7 @@ Recently, my research focuses on Computer Vision and Human-Computer Interaction.
 
 ## Hobbies
 
-I like to travel and take pictures. Even though I don't have professional photographic equipment, I still enjoy the process of finding beauty in the world around me.
+I like to travel and take pictures. I enjoy the process of finding beauty in the world around me, and I'm glad to record it by my camera (M43) and my phone. I'm working on my photography skills with different lenses.
 
 At the same time, I'm a transportation fanatic and am very interested in all types of transportation (spacecrafts, airplanes, trains, metros, etc.). 
 
