@@ -10,11 +10,12 @@ order: 4
 
 
 ## Short Biography
-Currently a junior undergraduate at Sun Yat-sen University (SYSU), I am specializing in Computer Science and Technology (Artificial Intelligence and Big Data).
+I am currently pursuing my Master of Science in Information Engineering at the Chinese University of Hong Kong (CUHK). 
 
-I have been admitted to the Master of Science in Information Engineering program at the Chinese University of Hong Kong (CUHK) and am expected to enroll in September 2024.
+Previously, I completed my undergraduate studies in Computer Science and Technology, specializing in Artificial Intelligence and Big Data, at Sun Yat-sen University (SYSU).
 
-In the spring of 2022, I was privileged to join the HCP lab at SYSU, guided by Keze Wang. 
+During my undergraduate studies, I was privileged to join the HCP lab at SYSU, under the guidance of Keze Wang, where I gained significant research experience.
+
 
 
 ## Research Interests
@@ -31,6 +32,8 @@ Recently, my research focuses on Computer Vision and Human-Computer Interaction.
 
 [Feb 2024] I was admitted to the MSc in Information Engineering at CUHK.
 
+[Sep 2024] I started my journey at CUHK.
+
 ## Publications
 
 [1] [ICASSP2024] Lingling Li, Weicong Li, **Qiyuan Ding**, Chengpei Tang, Keze Wang\*: *GestureGeneration via Diffusion Model with Attention Mechanism*
@@ -43,7 +46,7 @@ At the same time, I'm a transportation fanatic and am very interested in all typ
 
 
 ## Correspondence
-Email: dingqy7@mail2.sysu.edu.cn
+Email: dingqy02@163.com
 
 
 <!-- ## Resume
